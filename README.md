@@ -1,1 +1,1 @@
-# CPP-Projects
+# CPP-MiniProjects
